@@ -6,4 +6,8 @@ This 'project' exists for the sole purpose of practicing collaboration technique
 
 Adding changes on branch Tyler.
 
+## New section!
+This is a new line of text
+
 Yet, another line added in branch tyler before rebasing
+
