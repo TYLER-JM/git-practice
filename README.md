@@ -8,3 +8,6 @@ Adding changes on branch Tyler.
 
 ## New section!
 This is a new line of text
+
+Yet, another line added in branch tyler before rebasing
+
