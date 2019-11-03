@@ -20,3 +20,5 @@ Yet, another line added in branch tyler before rebasing
 
 * commit 1 on sunday
 * bullet, commit 3 on sunday
+* bullet point, commit 2 on sunday
+* bullet, commit 3 on sunday
