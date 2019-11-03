@@ -19,3 +19,4 @@ Yet, another line added in branch tyler before rebasing
 ## A fourth section!
 
 * commit 1 on sunday
+* bullet, commit 3 on sunday
